@@ -1,0 +1,10 @@
+package code.young.repulse.enums;
+
+/**
+ * Created by Calvin on 2/26/2015.
+ * Project: Repulse
+ *
+ */
+public enum ArenaType {
+    NONE, RANKED_PROTECTIONII, RANKED_NOENCHANTMENT, UNRANKED_PROTECTIONII, UNRANKED_NOENCHANTMENT, PROTECTIONII_TEAMVSTEAM, NOENCHANTMENT_TEAMVSTEAM
+}

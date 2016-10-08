@@ -1,0 +1,15 @@
+main: Repulse
+name: Repulse
+version: 1.0
+author: Young
+
+commands:
+  accept:
+  spawn:
+  arena:
+  results:
+  duel:
+  team:
+  stats:
+  refill:
+    aliases: [rf, refillzone, rfz, fz]
